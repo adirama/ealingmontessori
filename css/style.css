@@ -1795,7 +1795,7 @@ aside {
 .navbar-header .navbar-brand {
   float: left; }
   .navbar-header .navbar-brand > img {
-    width: 100%; }
+    width: 200%; }
   @media (min-width: 320px) {
     .navbar-header .navbar-brand {
       height: auto;
