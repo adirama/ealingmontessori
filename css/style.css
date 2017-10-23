@@ -3633,15 +3633,16 @@ footer {
   -moz-border-radius: 7px;
   border-radius: 7px;
   text-indent: 30px;
-  line-height: 50px;
+  line-height: 30px;
   font-weight: 600; }
 
 .teachersProfession {
-  color: #ffffff;
+  color: #2f3c43;
   text-transform: uppercase; }
 
 .professionDetails {
-  background-color: #ffffff;
+  color: #ffffff;
+  line-height: 50px;
   margin-bottom: 15px;
   font-size: 20px;
   text-transform: capitalize; }
