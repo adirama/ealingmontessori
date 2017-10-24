@@ -1198,7 +1198,7 @@ aside {
   box-shadow: 0 4px 0 rgba(0, 0, 0, 0.1); }
   .thumbnail > a img {
     border-radius: 9px 9px 0 0;
-    width: 100%; }
+    width: 200%; }
   .thumbnail img {
     border-radius: 9px 9px 0 0;
     width: 100%; }
